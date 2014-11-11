@@ -376,7 +376,8 @@ h4{
 	margin-left: 120px;
 }
 .social img:hover{
-	background-image: url('img/github_black.png');
+	background-image: url('../img/github_black.png');
+	background-repeat: no-repeat;
 }
 
 .footer{
