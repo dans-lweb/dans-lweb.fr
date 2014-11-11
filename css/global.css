@@ -332,7 +332,7 @@ h4{
 
 .contact-section {
     float:left;
-	width:740px;}
+	width:900px;}
 	
 
 .pays {
@@ -370,16 +370,20 @@ h4{
     width: 300px;
 }    
 
-.social img{
-	heigth: 60px;
-	width: 60px;
-	margin-left: 120px;
-}
-.social img:hover{
-	background-image: url('../img/github_black.png');
-	background-repeat: no-repeat;
-}
+.social p{
+	text-align:center;
+	}
 
+.social a{
+	left: 120px;
+	position: relative;}	
+	
+.social img{
+	height: 60px;
+	width: 60px;
+	margin-top: 20px;
+}
+	
 .footer{
 	border-top: 2px solid #3d3d3d;
 	background-color:#199cc1; 
